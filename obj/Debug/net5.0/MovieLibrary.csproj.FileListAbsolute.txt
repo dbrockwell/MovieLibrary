@@ -1,0 +1,16 @@
+C:\Users\David Brockwell\dotnet programs\MovieLibrary\obj\Debug\net5.0\MovieLibrary.csprojAssemblyReference.cache
+C:\Users\David Brockwell\dotnet programs\MovieLibrary\obj\Debug\net5.0\MovieLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David Brockwell\dotnet programs\MovieLibrary\obj\Debug\net5.0\MovieLibrary.AssemblyInfoInputs.cache
+C:\Users\David Brockwell\dotnet programs\MovieLibrary\obj\Debug\net5.0\MovieLibrary.AssemblyInfo.cs
+C:\Users\David Brockwell\dotnet programs\MovieLibrary\obj\Debug\net5.0\MovieLibrary.csproj.CoreCompileInputs.cache
+C:\Users\David Brockwell\dotnet programs\MovieLibrary\bin\Debug\net5.0\MovieLibrary.exe
+C:\Users\David Brockwell\dotnet programs\MovieLibrary\bin\Debug\net5.0\MovieLibrary.deps.json
+C:\Users\David Brockwell\dotnet programs\MovieLibrary\bin\Debug\net5.0\MovieLibrary.runtimeconfig.json
+C:\Users\David Brockwell\dotnet programs\MovieLibrary\bin\Debug\net5.0\MovieLibrary.runtimeconfig.dev.json
+C:\Users\David Brockwell\dotnet programs\MovieLibrary\bin\Debug\net5.0\MovieLibrary.dll
+C:\Users\David Brockwell\dotnet programs\MovieLibrary\bin\Debug\net5.0\ref\MovieLibrary.dll
+C:\Users\David Brockwell\dotnet programs\MovieLibrary\bin\Debug\net5.0\MovieLibrary.pdb
+C:\Users\David Brockwell\dotnet programs\MovieLibrary\obj\Debug\net5.0\MovieLibrary.dll
+C:\Users\David Brockwell\dotnet programs\MovieLibrary\obj\Debug\net5.0\ref\MovieLibrary.dll
+C:\Users\David Brockwell\dotnet programs\MovieLibrary\obj\Debug\net5.0\MovieLibrary.pdb
+C:\Users\David Brockwell\dotnet programs\MovieLibrary\obj\Debug\net5.0\MovieLibrary.genruntimeconfig.cache

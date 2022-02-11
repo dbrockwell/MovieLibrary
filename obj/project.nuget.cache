@@ -1,8 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "f6JNM79gYGogHyE/VLX5QS54XH7k42sWojaS2z3U5lAzf0BLMXS0NuzuQ8t5oLrn9t7zqFF0oYWUAODCMhlXPg==",
+  "dgSpecHash": "WKehObeHWQucJy1ioTCGrkO0bxT6EQnOKCjMEC/RVXpXum341+l9Q4Jz+5m6QG0fxUeu7gVOSkC77mcaKOmcRA==",
   "success": true,
   "projectFilePath": "C:\\Users\\David Brockwell\\dotnet programs\\MovieLibrary\\MovieLibrary.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\David Brockwell\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\David Brockwell\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\David Brockwell\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\David Brockwell\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\David Brockwell\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\David Brockwell\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\David Brockwell\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\David Brockwell\\.nuget\\packages\\nlog\\4.7.11\\nlog.4.7.11.nupkg.sha512",
+    "C:\\Users\\David Brockwell\\.nuget\\packages\\nlog.extensions.logging\\1.7.4\\nlog.extensions.logging.1.7.4.nupkg.sha512",
+    "C:\\Users\\David Brockwell\\.nuget\\packages\\nlog.web.aspnetcore\\4.14.0\\nlog.web.aspnetcore.4.14.0.nupkg.sha512"
+  ],
   "logs": []
 }
