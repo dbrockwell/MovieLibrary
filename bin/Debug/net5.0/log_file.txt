@@ -1,0 +1,16 @@
+2022-02-11 18:03:53.0782|INFO|MovieLibrary.Program|Program started
+2022-02-11 18:05:27.0626|INFO|MovieLibrary.Program|Program started
+2022-02-11 18:09:44.1874|INFO|MovieLibrary.Program|Program started
+2022-02-11 18:11:24.2489|INFO|MovieLibrary.Program|Program started
+2022-02-11 18:14:57.9103|INFO|MovieLibrary.Program|Program started
+2022-02-11 18:15:18.5965|INFO|MovieLibrary.Program|Program started
+2022-02-11 18:15:21.6019|ERROR|MovieLibrary.Program|Invalid input (integer): "d"
+2022-02-11 18:15:42.2755|ERROR|MovieLibrary.Program|Invalid input (integer): "dont"
+2022-02-12 14:15:45.8772|INFO|MovieLibrary.Program|Program started
+2022-02-12 14:26:15.8438|INFO|MovieLibrary.Program|Program started
+2022-02-12 14:37:09.7288|INFO|MovieLibrary.Program|Program started
+2022-02-12 14:37:16.3040|ERROR|MovieLibrary.Program|Invalid input (integer): "d"
+2022-02-12 14:37:23.6300|WARN|MovieLibrary.Program|Number has to be larger that the final ID number: 164979
+2022-02-12 14:37:40.1318|WARN|MovieLibrary.Program|Number has to be larger that the final ID number: 164979
+2022-02-12 14:40:09.9284|INFO|MovieLibrary.Program|Program started
+2022-02-12 14:40:14.7493|WARN|MovieLibrary.Program|Number has to be larger that the final ID number: 164979

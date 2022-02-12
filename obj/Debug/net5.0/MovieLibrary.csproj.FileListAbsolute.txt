@@ -14,3 +14,7 @@ C:\Users\David Brockwell\dotnet programs\MovieLibrary\obj\Debug\net5.0\MovieLibr
 C:\Users\David Brockwell\dotnet programs\MovieLibrary\obj\Debug\net5.0\ref\MovieLibrary.dll
 C:\Users\David Brockwell\dotnet programs\MovieLibrary\obj\Debug\net5.0\MovieLibrary.pdb
 C:\Users\David Brockwell\dotnet programs\MovieLibrary\obj\Debug\net5.0\MovieLibrary.genruntimeconfig.cache
+C:\Users\David Brockwell\dotnet programs\MovieLibrary\bin\Debug\net5.0\NLog.dll
+C:\Users\David Brockwell\dotnet programs\MovieLibrary\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+C:\Users\David Brockwell\dotnet programs\MovieLibrary\bin\Debug\net5.0\NLog.Web.AspNetCore.dll
+C:\Users\David Brockwell\dotnet programs\MovieLibrary\obj\Debug\net5.0\MovieLibrary.csproj.CopyComplete
