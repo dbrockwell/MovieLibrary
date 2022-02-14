@@ -94,7 +94,15 @@ namespace MovieLibrary
                             }
                             else {
                                 addContinue = true;
-                                title = titleString;
+                                if (titleString.Contains(",")) {
+                                    title = "\"" + titleString + "\"";
+                                }
+                                else {
+                                    title = titleString;
+                                }
+                                do {
+                                    
+                                } while (addContinue == false);
                             }
                         } while (addContinue == false);
                     }
