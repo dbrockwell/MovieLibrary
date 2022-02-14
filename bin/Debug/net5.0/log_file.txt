@@ -14,3 +14,9 @@
 2022-02-12 14:37:40.1318|WARN|MovieLibrary.Program|Number has to be larger that the final ID number: 164979
 2022-02-12 14:40:09.9284|INFO|MovieLibrary.Program|Program started
 2022-02-12 14:40:14.7493|WARN|MovieLibrary.Program|Number has to be larger that the final ID number: 164979
+2022-02-14 13:50:38.0282|INFO|MovieLibrary.Program|Program started
+2022-02-14 14:03:45.6888|INFO|MovieLibrary.Program|Program started
+2022-02-14 14:07:24.3615|INFO|MovieLibrary.Program|Program started
+2022-02-14 14:07:55.8216|WARN|MovieLibrary.Program|The title "Stranger Things" already exists
+2022-02-14 14:08:41.9524|INFO|MovieLibrary.Program|Program started
+2022-02-14 14:08:54.1299|ERROR|MovieLibrary.Program|No input for title was entered

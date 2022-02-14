@@ -81,6 +81,22 @@ namespace MovieLibrary
                     }
                     else {
                         addContinue = true;
+                        do {
+                            Console.WriteLine("Enter movie title");
+                            string titleString = Console.ReadLine();
+                            if (titleString == "") {
+                                logger.Error("No input for title was entered");
+                                addContinue = false;
+                            }
+                            else if (titleText.Contains(titleString)) {
+                                logger.Warn("The title {title} already exists", titleString);
+                                addContinue = false;
+                            }
+                            else {
+                                addContinue = true;
+                                title = titleString;
+                            }
+                        } while (addContinue == false);
                     }
                 } while(addContinue == false);
             } 
