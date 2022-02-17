@@ -20,3 +20,6 @@
 2022-02-14 14:07:55.8216|WARN|MovieLibrary.Program|The title "Stranger Things" already exists
 2022-02-14 14:08:41.9524|INFO|MovieLibrary.Program|Program started
 2022-02-14 14:08:54.1299|ERROR|MovieLibrary.Program|No input for title was entered
+2022-02-14 14:15:20.6022|INFO|MovieLibrary.Program|Program started
+2022-02-17 13:21:33.3064|INFO|MovieLibrary.Program|Program started
+2022-02-17 13:22:37.1735|ERROR|MovieLibrary.Program|No input for genre was entered

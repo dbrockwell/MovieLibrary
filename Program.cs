@@ -3,6 +3,7 @@ using System.IO;
 using System.Text.RegularExpressions;
 using NLog.Web;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace MovieLibrary
 {
@@ -43,7 +44,7 @@ namespace MovieLibrary
                 bool addContinue = true;
                 int ID;
                 string title;
-                string[] genres;
+                string genres = "";
                 string[] movieCheck;
                 List<int> IDNumber = new List<int>();
                 List<string> titleText = new List<string>();
@@ -101,7 +102,31 @@ namespace MovieLibrary
                                     title = titleString;
                                 }
                                 do {
-                                    
+                                    List<string> genreList = new List<string>();
+                                    string genreContinue;
+                                    do {
+                                        Console.WriteLine("Enter movie genre");
+                                        String genreAdd = Console.ReadLine();
+                                        if (genreAdd == "") {
+                                            logger.Error("No input for genre was entered");
+                                            genreContinue = "Y";
+                                        }
+                                        else {
+                                            Console.WriteLine("Would you like to add another (Y/N)");
+                                            genreContinue = Console.ReadLine().ToUpper();
+                                        }
+                                    } while (genreContinue == "Y");
+                                    string lastGenre = genreList.LastOrDefault();
+                                    foreach(string genre in genreList) {
+                                        if (genre.Equals(lastGenre))
+                                        {
+                                            genres += genre;
+                                        }
+                                        else
+                                        {
+                                            genres += genre + " | ";
+                                        }
+                                    }
                                 } while (addContinue == false);
                             }
                         } while (addContinue == false);
