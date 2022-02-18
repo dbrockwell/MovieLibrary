@@ -23,3 +23,28 @@
 2022-02-14 14:15:20.6022|INFO|MovieLibrary.Program|Program started
 2022-02-17 13:21:33.3064|INFO|MovieLibrary.Program|Program started
 2022-02-17 13:22:37.1735|ERROR|MovieLibrary.Program|No input for genre was entered
+2022-02-17 20:14:57.2594|INFO|MovieLibrary.Program|Program started
+2022-02-17 20:19:13.5408|INFO|MovieLibrary.Program|Program started
+2022-02-17 20:25:20.1243|INFO|MovieLibrary.Program|Program started
+2022-02-17 20:36:04.3776|INFO|MovieLibrary.Program|Program started
+2022-02-17 20:43:09.2908|INFO|MovieLibrary.Program|Program started
+2022-02-17 20:45:21.8387|INFO|MovieLibrary.Program|Program started
+2022-02-17 20:57:50.1502|INFO|MovieLibrary.Program|Program started
+2022-02-17 21:04:40.9539|INFO|MovieLibrary.Program|Program started
+2022-02-17 21:10:20.2852|INFO|MovieLibrary.Program|Program started
+2022-02-17 21:13:31.4224|INFO|MovieLibrary.Program|Program started
+2022-02-17 21:21:54.6818|INFO|MovieLibrary.Program|Program started
+2022-02-17 21:31:19.6162|WARN|MovieLibrary.Program|Number has to be larger that the final ID number: 164984
+2022-02-17 21:32:19.3375|INFO|MovieLibrary.Program|Program started
+2022-02-17 21:33:39.2515|INFO|MovieLibrary.Program|Movie has been added: The Best Movie (2022)
+2022-02-17 21:37:00.0906|INFO|MovieLibrary.Program|Program started
+2022-02-17 21:37:42.9534|WARN|MovieLibrary.Program|Number has to be larger that the final ID number: 164984
+2022-02-17 21:38:57.4254|INFO|MovieLibrary.Program|Movie has been added: "This Time, Goodbye (2022)"
+2022-02-17 21:39:55.3000|INFO|MovieLibrary.Program|Program Ended
+2022-02-17 21:40:32.2809|INFO|MovieLibrary.Program|Program started
+2022-02-17 21:41:37.5011|INFO|MovieLibrary.Program|Movie has been added: "This Time, Goodbye (2022)"
+2022-02-17 21:43:33.1964|INFO|MovieLibrary.Program|Movie has been added: "This Time, Goodbye (2022)"
+2022-02-17 21:43:47.4587|INFO|MovieLibrary.Program|Program Ended
+2022-02-17 21:44:01.0094|INFO|MovieLibrary.Program|Program started
+2022-02-17 21:45:00.9141|INFO|MovieLibrary.Program|Movie has been added: The End
+2022-02-17 21:45:40.7556|INFO|MovieLibrary.Program|Program Ended
